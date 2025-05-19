@@ -1,1 +1,1 @@
-# Defesa_mestrado
+# Projeto IA para previsão da duração de um processo judicial no STJ
